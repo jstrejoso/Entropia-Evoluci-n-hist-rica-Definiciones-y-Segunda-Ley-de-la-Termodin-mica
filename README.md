@@ -190,7 +190,7 @@ Esta ley define la **dirección natural** en la que los procesos ocurren.
 
 ## 2. Ecuaciones Fundamentales
 
-### ✔ Definición de entropía (proceso reversible)
+### Definición de entropía (proceso reversible)
 
 $$
 dS = \frac{\delta Q_{\text{rev}}}{T}
@@ -331,7 +331,7 @@ Una reacción puede ser espontánea aunque \( \Delta S_{\text{sistema}} < 0 \) s
 
 ---
 
-##  6.3 Energía Libre de Gibbs (la más usada en química)
+##  6.3 Energía Libre de Gibbs 
 
 Se usa para decidir espontaneidad sin evaluar explícitamente \( \Delta S_{\text{universo}} \):
 
