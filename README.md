@@ -56,7 +56,9 @@ $$S = k_B \ln W$$
 >  de que las moléculas estén esparcidas, pero muy pocas formas de que se queden todas juntas en el frasco. La naturaleza simplemente sigue lo que es más probable.
 
 ![Ejemplo aplicado](./perfume.jpg)
-
+<p align="center">
+  <img src="images/entropia.png" alt="Entropía" width="300">
+</p>
 ---
 
 ## 3. La Entropía de la Información: Claude Shannon (1948)
