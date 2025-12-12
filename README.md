@@ -383,11 +383,18 @@ la reacción puede ser espontánea si es fuertemente exotérmica.
 
 # Bibliografía
 
-- MIT OpenCourseWare – Termodinámica  
-- UC San Diego – *Entropy and the Second Law*  
-- NIST Chemistry WebBook  
-- Stanford Encyclopedia of Philosophy – Boltzmann  
-- Atkins & de Paula – *Physical Chemistry*  
-- Schroeder – *Thermal Physics*  
-- Chang & Goldsby – *Química* (McGraw-Hill)
+- Clausius, R. (1865). Sobre la segunda ley de la termodinámica.
+- Boltzmann, L. (1896). Vorlesungen über Gastheorie (Lecciones sobre teoría de los gases).
+- Shannon, C. E. (1948). "A Mathematical Theory of Communication". Bell System Technical Journal.
+- Carroll, S. (2010). From Eternity to Here: The Quest for the Ultimate Theory of Time.
+- Susskind, L. (2014). The Theoretical Minimum: Entanglement and Holography.
+- Atkins, P., & de Paula, J. (2014). _Physical chemistry_ (10th ed.). Oxford University Press.
+- Silbey, R., Alberty, R., & Bawendi, M. (2005). _Physical chemistry_ (4th ed.). Wiley.
+- Cengel, Y., & Boles, M. (2019). _Thermodynamics: An engineering approach_ (9th ed.). McGraw-Hill.
+- Callen, H. B. (1985). _Thermodynamics and an introduction to thermostatistics_ (2nd ed.). Wiley.
+- Reif, F. (1965). _Statistical physics_. McGraw-Hill.**
+- Boltzmann, L. (1877). Über die Beziehung zwischen dem zweiten Hauptsatze der mechanischen Wärmetheorie und der Wahrscheinlichkeitsrechnung respektive den Sätzen über das Wärmegleichgewicht. _Wiener Berichte_, 76, 373–435.
+- Planck, M. (1901). Über das Gesetz der Energieverteilung im Normalspektrum. _Annalen der Physik_, 309(3), 553–563.**
+- MIT Department of Physics. (2020). _Second law of thermodynamics and entropy_. Massachusetts Institute of Technology. Recuperado de https://ocw.mit.edu**
+- University of California, Davis. (2017). _Entropy and the second law of thermodynamics_. Chemistry LibreTexts. Recuperado de https://chem.libretexts.org**
 
