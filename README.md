@@ -55,7 +55,6 @@ $$S = k_B \ln W$$
 >  Según Boltzmann, esto no pasa por una fuerza mágica, sino por probabilidad: hay millones de formas (microestados)
 >  de que las moléculas estén esparcidas, pero muy pocas formas de que se queden todas juntas en el frasco. La naturaleza simplemente sigue lo que es más probable.
 
-![Ejemplo aplicado](./perfume.jpg)
 <p align="center">
   <img src="./perfume.jpg" alt="Ejemplo aplicado" width="300">
 </p>
