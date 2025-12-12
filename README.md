@@ -1,8 +1,8 @@
 # Entropía: Evolución histórica, Definiciones y Segunda Ley de la Termodinámica
 *Autores:* 
-* FRANKY ADRIAN MONTENEGRO GUEVARA
-* JUAN SEBASTIAN TREJOS OCAMPO
-* JUAN SEBASTIAN CAMARGO ACERO
+* Juan Sebastián Camargo Acero
+* Franky Adrian Montenegro Guevara
+* Juan Sebastián Trejos Ocampo
 
 *Curso:* Principios de Química
 ## Introducción
