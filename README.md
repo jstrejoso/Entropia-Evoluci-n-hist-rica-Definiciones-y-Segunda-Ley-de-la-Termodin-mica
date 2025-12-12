@@ -24,7 +24,7 @@ Clausius no llegó a la entropía estudiando átomos (en esa época ni siquiera 
 >  necesita un motor que trabaje constantemente. Si desconectas el motor, el calor entra y todo se echa a perder (aumenta la entropía).
 >  Además, si tocas la parte de atrás de la nevera, está caliente; eso demuestra que para bajar la entropía adentro, tuvimos que aumentarla afuera expulsando calor.
 
-![Ejemplo aplicado](./nevera.jpg)
+![Ejemplo aplicado](./nevera.jpeg)
 ---
 ## Sobre la Dispersión o distribucion de Energía:
  Conceptualmente, la entropía puede entenderse como la *dispersión o distribución de la energía*.
@@ -55,7 +55,7 @@ $$S = k_B \ln W$$
 >  Según Boltzmann, esto no pasa por una fuerza mágica, sino por probabilidad: hay millones de formas (microestados)
 >  de que las moléculas estén esparcidas, pero muy pocas formas de que se queden todas juntas en el frasco. La naturaleza simplemente sigue lo que es más probable.
 
-![Ejemplo aplicado](./perfume.jpeg)
+![Ejemplo aplicado](./perfume.jpg)
 
 ---
 
