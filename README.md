@@ -284,14 +284,6 @@ A más microestados, más desorden y mayor entropía.
 
 ---
 
-## 5. Interpretación Física General
-
-- La entropía mide el **grado de desorden** o dispersión de energía.  
-- Sistemas aislados evolucionan hacia estados más probables ⇒ mayor entropía.  
-- La Segunda Ley introduce una **flecha del tiempo**: las cosas naturalmente se desordenan.
-
----
-
 # 6. Interpretación Química de la Segunda Ley
 
 La Segunda Ley es fundamental en química para entender espontaneidad, equilibrio y termodinámica molecular.
