@@ -61,7 +61,7 @@ $$S = k_B \ln W$$
 <p align="center">
   <img src="./perfume.jpg" alt="Ejemplo aplicado" width="300">
 </p>
----
+
 
 ## 3. La Entropía de la Información: Claude Shannon (1948)
 Esta es la definición "alternativa" más interesante. Shannon no era químico, trabajaba en telecomunicaciones, pero su matemática resultó ser idéntica a la de Boltzmann.
