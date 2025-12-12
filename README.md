@@ -24,7 +24,7 @@ Clausius no llegó a la entropía estudiando átomos (en esa época ni siquiera 
 >  necesita un motor que trabaje constantemente. Si desconectas el motor, el calor entra y todo se echa a perder (aumenta la entropía).
 >  Además, si tocas la parte de atrás de la nevera, está caliente; eso demuestra que para bajar la entropía adentro, tuvimos que aumentarla afuera expulsando calor.
 
-![Ejemplo aplicado](./nevera.jpeg)
+![Ejemplo aplicado](./nevera.jpg)
 ---
 ## Sobre la Dispersión o distribucion de Energía:
  Conceptualmente, la entropía puede entenderse como la *dispersión o distribución de la energía*.
