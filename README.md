@@ -28,6 +28,7 @@ Clausius no llegó a la entropía estudiando átomos (en esa época ni siquiera 
   <img src="./nevera.jpeg" alt="Ejemplo aplicado" width="300">
 </p>
 ---
+
 ## Sobre la Dispersión o distribucion de Energía:
  Conceptualmente, la entropía puede entenderse como la *dispersión o distribución de la energía*.
  En un sistema aislado, la energía no desaparece, pero tiende a distribuirse de la manera más amplia posible entre todos los niveles energéticos disponibles.
