@@ -1,0 +1,1 @@
+# Entropia-Evoluci-n-hist-rica-Definiciones-y-Segunda-Ley-de-la-Termodin-mica
