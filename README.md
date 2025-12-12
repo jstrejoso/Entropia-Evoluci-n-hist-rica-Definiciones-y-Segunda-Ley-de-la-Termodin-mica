@@ -53,7 +53,9 @@ $$S = k_B \ln W$$
 >  Un ejemplo perfecto es abrir una botella de perfume en una esquina del salón.
 >  Al principio, todas las moleculas de olor estan ordenadas dentro del frasco (baja entropía). Con el tiempo, se esparcen por todo el cuarto.
 >  Según Boltzmann, esto no pasa por una fuerza mágica, sino por probabilidad: hay millones de formas (microestados)
->  de que las moléculas estén esparcidas, pero muy pocas formas de que se queden todas juntas en el frasco. La naturaleza simplemente sigue lo que es más probable
+>  de que las moléculas estén esparcidas, pero muy pocas formas de que se queden todas juntas en el frasco. La naturaleza simplemente sigue lo que es más probable.
+
+![Ejemplo aplicado](./perfume.jpeg)
 
 ---
 
@@ -80,6 +82,9 @@ $$H(X) = - \sum_{i=1}^{n} p_i \log_b p_i$$
 (baja entropía) y el mensaje apenas aporta "informacion nueva" por ser tan predecible; por el contrario, si escribes una palabra totalmente inesperada o aleatoria,
 la incertidumbre aumenta (alta entropía) porque el sistema no puede predecir tu intención, demostrando que para Shannon la información es una medida de la sorpresa:
 cuanto menos probable es un evento, más información transmite y mayor es su entropía.
+
+![Ejemplo aplicado](./teclado.jpeg)
+
 ---
 
 ## 4. Importancia Moderna y Síntesis
