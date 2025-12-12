@@ -166,7 +166,7 @@ Es la realización individual que contribuye al número total de estados accesib
 $$S = k \ln \Omega$$
 
 ---
-# Segunda Ley de la Termodinámica — Definición, Ecuaciones, Entropía e Interpretación Química
+# Segunda Ley de la Termodinámica: Definición, Ecuaciones, Entropía e Interpretación Química
 
 ## 1. Definición de la Segunda Ley de la Termodinámica
 
