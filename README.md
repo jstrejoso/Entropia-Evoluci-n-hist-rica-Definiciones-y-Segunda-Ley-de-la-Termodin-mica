@@ -7,7 +7,7 @@
 *Curso:* Principios de Química
 ## Introducción
 La entropía es, quizás, uno de los conceptos más incomprendidos de la química física. A menudo se despacha simplemente como "desorden", 
-pero esa es una simplificación que oculta su verdadera naturaleza. En este documento, analizo cómo el concepto mutó de ser una propiedad térmica macroscópica a una 
+pero esa es una simplificación que oculta su verdadera naturaleza. En este documento, se analiza cómo el concepto mutó de ser una propiedad térmica macroscópica a una 
 ley estadística y, finalmente, a una medida de información.
 
 ---
