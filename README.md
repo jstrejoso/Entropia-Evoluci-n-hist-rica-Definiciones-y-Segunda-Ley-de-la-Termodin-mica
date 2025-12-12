@@ -73,9 +73,9 @@ En su artículo "A Mathematical Theory of Communication", Shannon definió la en
 $$H(X) = - \sum_{i=1}^{n} p_i \log_b p_i$$
 
 *Donde:*
-* *$H(X)$:* Representa la incertidumbre promedio. Es una medida de cuánto nos "sorprende" el estado de un sistema.
-* *$p_i$:* Es la probabilidad de que el sistema se encuentre en un estado específico. En química, esto se traduce a la probabilidad de encontrar una partícula en un microestado determinado.
-* *El signo negativo ($-$):* Es un ajuste matemático necesario. Dado que las probabilidades ($p_i$) son siempre menores a 1, sus logaritmos son negativos; el signo menos asegura que el valor final de la entropía sea un número positivo.
+* *H(X):* Representa la incertidumbre promedio. Es una medida de cuánto nos "sorprende" el estado de un sistema.
+* *pi:* Es la probabilidad de que el sistema se encuentre en un estado específico. En química, esto se traduce a la probabilidad de encontrar una partícula en un microestado determinado.
+* *El signo negativo (-):* Es un ajuste matemático necesario. Dado que las probabilidades (pi) son siempre menores a 1, sus logaritmos son negativos; el signo menos asegura que el valor final de la entropía sea un número positivo.
 
 *Fusión del hielo:*
 * En el hielo, las moléculas están ordenadas -→ *entropía baja*.
