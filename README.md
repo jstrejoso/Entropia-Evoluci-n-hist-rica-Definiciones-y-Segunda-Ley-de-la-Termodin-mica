@@ -24,7 +24,9 @@ Clausius no llegó a la entropía estudiando átomos (en esa época ni siquiera 
 >  necesita un motor que trabaje constantemente. Si desconectas el motor, el calor entra y todo se echa a perder (aumenta la entropía).
 >  Además, si tocas la parte de atrás de la nevera, está caliente; eso demuestra que para bajar la entropía adentro, tuvimos que aumentarla afuera expulsando calor.
 
-![Ejemplo aplicado](./nevera.jpeg)
+<p align="center">
+  <img src="./nevera.jpeg" alt="Ejemplo aplicado" width="300">
+</p>
 ---
 ## Sobre la Dispersión o distribucion de Energía:
  Conceptualmente, la entropía puede entenderse como la *dispersión o distribución de la energía*.
@@ -84,7 +86,9 @@ $$H(X) = - \sum_{i=1}^{n} p_i \log_b p_i$$
 la incertidumbre aumenta (alta entropía) porque el sistema no puede predecir tu intención, demostrando que para Shannon la información es una medida de la sorpresa:
 cuanto menos probable es un evento, más información transmite y mayor es su entropía.
 
-![Ejemplo aplicado](./teclado.jpeg)
+<p align="center">
+  <img src="./teclado.jpeg" alt="Ejemplo aplicado" width="300">
+</p>
 
 ---
 
