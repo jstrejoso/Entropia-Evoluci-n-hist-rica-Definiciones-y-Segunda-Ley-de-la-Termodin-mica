@@ -122,6 +122,10 @@ $$H = - \sum_{i} p_i \log p_i$$
 ## 2. Entropía de Entrelazamiento Cuántico (von Neumann)
 En la mecánica cuántica, la entropía se utiliza para cuantificar el grado de correlación o "enredo" entre subsistemas. Si un sistema está dividido, la entropía de una de sus partes mide qué tan fuertemente están vinculadas entre sí.
 
+<p align="center">
+  <img src="./cuantico.jpeg" alt="Ejemplo aplicado" width="300">
+</p>
+
 ### La Entropía de von Neumann
 Se expresa mediante la matriz densidad ($\rho$):
 $$S(\rho) = - \text{Tr}(\rho \ln \rho)$$
@@ -134,6 +138,9 @@ $$S(\rho) = - \text{Tr}(\rho \ln \rho)$$
 ## 3. El Principio Holográfico y la Dimensionalidad
 Una de las fronteras más fascinantes de la física teórica moderna sugiere que la entropía no depende del volumen de una región, sino del área de su frontera.
 
+<p align="center">
+  <img src="./holograma.jpeg" alt="Ejemplo aplicado" width="300">
+</p>
 
 
 ### La Entropía de Hawking-Bekenstein
@@ -375,6 +382,10 @@ $$
 
 Aunque disminuyen los moles gaseosos (entropía del sistema baja),  
 la reacción puede ser espontánea si es fuertemente exotérmica.
+
+<p align="center">
+  <img src="./amoniaco.jpeg" alt="Ejemplo aplicado" width="300">
+</p>
 
 ---
 
