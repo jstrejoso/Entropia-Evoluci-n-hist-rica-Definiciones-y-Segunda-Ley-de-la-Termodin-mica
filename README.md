@@ -57,7 +57,7 @@ $$S = k_B \ln W$$
 
 ![Ejemplo aplicado](./perfume.jpg)
 <p align="center">
-  <img src="images/entropia.png" alt="Entropía" width="300">
+  <img src="./perfume.jpg" alt="Ejemplo aplicado" width="300">
 </p>
 ---
 
