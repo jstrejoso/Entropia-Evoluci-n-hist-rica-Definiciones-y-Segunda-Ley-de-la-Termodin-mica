@@ -204,7 +204,7 @@ $$
 
 ---
 
-### ✔ Desigualdad de Clausius
+###  Desigualdad de Clausius
 
 Para un ciclo termodinámico:
 
@@ -220,7 +220,7 @@ $$
 
 ---
 
-### ✔ Balance de entropía del universo
+###  Balance de entropía del universo
 
 $$
 \Delta S_{\text{universo}} =
@@ -232,7 +232,7 @@ $$
 
 ## 3. Tipos de Entropía
 
-### 🔸 Entropía del sistema
+###  Entropía del sistema
 
 Cantidad de estado que depende del calor reversible:
 
@@ -242,7 +242,7 @@ $$
 
 ---
 
-### 🔸 Entropía de los alrededores (entorno)
+###  Entropía de los alrededores (entorno)
 
 Si el ambiente está a temperatura constante:
 
@@ -252,7 +252,7 @@ $$
 
 ---
 
-### 🔸 Entropía del universo
+###  Entropía del universo
 
 Determina la espontaneidad:
 
@@ -297,7 +297,7 @@ La Segunda Ley es fundamental en química para entender espontaneidad, equilibri
 
 ---
 
-## 🔹 6.1 Espontaneidad de Reacciones Químicas
+##  6.1 Espontaneidad de Reacciones Químicas
 
 Una reacción química es espontánea cuando:
 
@@ -315,7 +315,7 @@ Aquí aparece un gas ⇒ mayor desorden ⇒ \( \Delta S_{\text{sistema}} > 0 \).
 
 ---
 
-## 🔹 6.2 Entropía de los alrededores en reacciones
+##  6.2 Entropía de los alrededores en reacciones
 
 Para una reacción a presión constante:
 
@@ -331,7 +331,7 @@ Una reacción puede ser espontánea aunque \( \Delta S_{\text{sistema}} < 0 \) s
 
 ---
 
-## 🔹 6.3 Energía Libre de Gibbs (la más usada en química)
+##  6.3 Energía Libre de Gibbs (la más usada en química)
 
 Se usa para decidir espontaneidad sin evaluar explícitamente \( \Delta S_{\text{universo}} \):
 
@@ -351,7 +351,7 @@ Esto es lo que se usa en termodinámica química y bioquímica.
 
 ---
 
-## 🔹 6.4 Equilibrio químico
+##  6.4 Equilibrio químico
 
 En equilibrio:
 
@@ -367,7 +367,7 @@ No hay tendencia neta a reaccionar en ninguna dirección.
 
 ---
 
-## 🔹 6.5 Entropía microscópica en química
+##  6.5 Entropía microscópica en química
 
 - Más partículas ⇒ más microestados ⇒ mayor entropía  
 - Gases tienen más entropía que líquidos  
@@ -389,7 +389,7 @@ la reacción puede ser espontánea si es fuertemente exotérmica.
 
 ---
 
-# 7. Fuentes Académicas Confiables
+# Bibliografía
 
 - MIT OpenCourseWare – Termodinámica  
 - UC San Diego – *Entropy and the Second Law*  
@@ -399,13 +399,3 @@ la reacción puede ser espontánea si es fuertemente exotérmica.
 - Schroeder – *Thermal Physics*  
 - Chang & Goldsby – *Química* (McGraw-Hill)
 
----
-
-# 8. Resumen Final
-
-**La Segunda Ley afirma que los procesos espontáneos aumentan la entropía total del universo.  
-En química, esta espontaneidad se evalúa usando la energía libre de Gibbs:**
-
-$$
-\Delta G < 0
-$$
