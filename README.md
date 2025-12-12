@@ -257,21 +257,15 @@ $$
 Determina la espontaneidad:
 
 - Si  
-  $$
-  \Delta S_{\text{universo}} > 0
-  $$  
-  el proceso es espontáneo
+  $\Delta S_{\text{universo}} > 0$  
+  el proceso es espontáneo.
 
 - Si  
-  $$
-  \Delta S_{\text{universo}} = 0
-  $$  
-  es reversible
+  $\Delta S_{\text{universo}} = 0$  
+  es reversible.
 
 - Si  
-  $$
-  \Delta S_{\text{universo}} < 0
-  $$  
+  $\Delta S_{\text{universo}} < 0$  
   el proceso no puede ocurrir espontáneamente
 
 ---
@@ -280,14 +274,12 @@ Determina la espontaneidad:
 
 Interpretación microscópica:
 
-$$
-S = k_{\mathrm{B}} \ln W
-$$
+$S = k_{\mathrm{B}} \ln W$
 
-- \( W \): número de microestados disponibles  
-- \( k_{\mathrm{B}} \): constante de Boltzmann  
+- $W$: número de microestados disponibles  
+- $k_{\mathrm{B}}$: constante de Boltzmann  
 
-A más microestados, más desorden y mayor entropía.
+A más microestados, mayor desorden y mayor entropía.
 
 ---
 
