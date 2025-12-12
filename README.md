@@ -8,7 +8,7 @@
 ## Introducción
 La entropía es, quizás, uno de los conceptos más incomprendidos de la química física. A menudo se despacha simplemente como "desorden", 
 pero esa es una simplificación que oculta su verdadera naturaleza. En este documento, se analiza cómo el concepto mutó de ser una propiedad térmica macroscópica a una 
-ley estadística y, finalmente, a una medida de información.
+ley estadística y finalmente, a una medida de información.
 
 ---
 
@@ -73,7 +73,7 @@ $$H(X) = - \sum_{i=1}^{n} p_i \log_b p_i$$
 * En el hielo, las moléculas están ordenadas -→ *entropía baja*.
 * En el agua líquida, se mueven libremente -→ *entropía alta*.
 
-> *Ejeplo cotidiano* Un ejemplo cotidiano de la entropía de Shannon es el autocompletado de mensajes en un móvil:
+> *Ejemplo cotidiano* Un ejemplo cotidiano de la entropía de Shannon es el autocompletado de mensajes en un móvil:
 > * cuando se empieza una frase común como "¿Qué tal...", la probabilidad de que la siguiente palabra sea "estás" es tan alta que la incertidumbre es mínima
 (baja entropía) y el mensaje apenas aporta "informacion nueva" por ser tan predecible; por el contrario, si escribes una palabra totalmente inesperada o aleatoria,
 la incertidumbre aumenta (alta entropía) porque el sistema no puede predecir tu intención, demostrando que para Shannon la información es una medida de la sorpresa:
