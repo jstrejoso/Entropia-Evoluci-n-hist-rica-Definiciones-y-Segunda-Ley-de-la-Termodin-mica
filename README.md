@@ -1,1 +1,1 @@
-# Entropía: Evolución-histórica, Definiciones y Segunda Ley de la Termodinámica
+# Entropía: Evolución histórica, Definiciones y Segunda Ley de la Termodinámica
