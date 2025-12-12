@@ -23,7 +23,8 @@ Clausius no llegó a la entropía estudiando átomos (en esa época ni siquiera 
 > Un ejemplo clásico es el funcionamiento de un refrigerador. Para que un refrigerador esté frío por dentro (ordenado/baja entropía),
 >  necesita un motor que trabaje constantemente. Si desconectas el motor, el calor entra y todo se echa a perder (aumenta la entropía).
 >  Además, si tocas la parte de atrás de la nevera, está caliente; eso demuestra que para bajar la entropía adentro, tuvimos que aumentarla afuera expulsando calor.
-![Diagrama termodinámico](./nevera.jpeg)
+
+![Ejemplo aplicado](./nevera.jpeg)
 ---
 ## Sobre la Dispersión o distribucion de Energía:
  Conceptualmente, la entropía puede entenderse como la *dispersión o distribución de la energía*.
